@@ -71,13 +71,19 @@ for Windows.
 
 ![](img/rstudio_2.png)
 
+---
+
 #### 2. Begin the installation setup.
 
 ![](img/rstudio_3.png)
 
+---
+
 #### 3. Choose destination folder.
 
 ![](img/rstudio_4.png)
+
+---
 
 #### 4. Click install and then finish.
 
@@ -87,13 +93,19 @@ for Windows.
 
 ![](img/rstudio_6.png)
 
+---
+
 #### 5. Search for RStudio in applications and open.
 
 ![](img/rstudio_7.png)
 
+---
+
 #### 6. Use your machine's default 64-bit version of R and click OK.
 
 ![](img/rstudio_8.png)
+
+---
 
 #### 7. Open RStudio and you should see a screen like this
 
